@@ -1,0 +1,27 @@
+-Column:
++ Invoice/Item Number
++ Date
++ Store Name
++ Address
++ City
++ County
++ Category Name (NULL)
++ Vendor Name
++ Item Description
++ Pack
++ Bottle Volume (ml)
++ State Bottle Cost
++ State Bottle Retail
++ Bottles Sold
++ Sale (Dollars)
++ Volume Sold (Liters)
+
+
+- Number of bottles of wine sold on the market
+- Number of bottles of wine distributed to retailers
+- number of bottles of wine distributed to retailers
+-
+-
+-
+-
+-
